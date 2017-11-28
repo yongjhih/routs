@@ -32,3 +32,9 @@ dependencies {
     compile 'com.github.yongjhih:routs:0.0.2'
 }
 ```
+
+# Test
+
+```sh
+./gradlew test
+```
