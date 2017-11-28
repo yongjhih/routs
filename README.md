@@ -2,6 +2,7 @@
 [![javadoc](https://img.shields.io/github/tag/yongjhih/routs.svg?label=javadoc)](https://jitpack.io/com/github/yongjhih/routs/-SNAPSHOT/javadoc/)
 [![codecov](https://codecov.io/gh/yongjhih/routs/branch/master/graph/badge.svg)](https://codecov.io/gh/yongjhih/routs)
 [![CircleCI](https://circleci.com/gh/yongjhih/routs/tree/master.svg?style=svg)](https://circleci.com/gh/yongjhih/routs)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # routs
 
