@@ -36,7 +36,7 @@ jobs:
           - v1-dependencies-
 
       - run:
-          command: ./gradlew dependencies
+          command: ./gradlew dependencies assemble
 
       - save_cache:
           paths:
