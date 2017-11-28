@@ -1,0 +1,42 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+*.iml
+*.ipr
+*.iws
+.idea
+out
+dependency-reduced-pom.xml
+.DS_Store
+.gradle/
+local.properties
+build/
+
+.*.sw[p-z]
+*~
+
+.classpath
+.project
+.settings/
+bin/
