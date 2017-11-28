@@ -30,6 +30,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.yongjhih:routs:0.0.1'
+    compile 'com.github.yongjhih:routs:0.0.2'
 }
 ```
