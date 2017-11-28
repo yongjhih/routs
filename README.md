@@ -8,7 +8,7 @@
 Simple Router
 
 ## Usage
-<[0-9]+>
+
 ```java
 PathMatcher matcher = PathMatcher()
 matcher.add("home/123456789012/v1");
