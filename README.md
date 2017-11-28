@@ -33,8 +33,12 @@ dependencies {
 }
 ```
 
-# Test
+## Test
 
 ```sh
 ./gradlew test
 ```
+
+## LICENSE
+
+apache 2.0
