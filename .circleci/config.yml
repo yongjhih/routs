@@ -47,9 +47,7 @@ jobs:
 
       # run tests!
       - run:
-          command:
-            ./gradlew test jacocoTestReport
-            bash <(curl -s https://codecov.io/bash)
+          command: ./gradlew test jacocoTestReport && bash <(curl -s https://codecov.io/bash)
 
       #- deploy:
       #   command: ./gradlew -PBINTRAY_USER=$BINTRAY_USER -PBINTRAY_KEY=$BINTRAY_KEY assemble bintrayUpload
