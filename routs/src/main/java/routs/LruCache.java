@@ -19,7 +19,6 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 // STOPSHIP replace "Honeycomb MR1" with numbered release 2x below
 /**
- * Static library version of {@link android.util.LruCache}. Used to write apps
  * that run on platforms prior to Android Honeycomb MR1. When running on
  * Honeycomb MR1 or above, this implementation is still used; it does not try to
  * switch to the framework's implementation.  See the framework SDK

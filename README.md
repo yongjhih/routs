@@ -1,7 +1,7 @@
 [![JitPack](https://img.shields.io/github/tag/yongjhih/routs.svg?label=JitPack)](https://jitpack.io/#yongjhih/routs)
 [![javadoc](https://img.shields.io/github/tag/yongjhih/routs.svg?label=javadoc)](https://jitpack.io/com/github/yongjhih/routs/routs/-SNAPSHOT/javadoc/)
 [![codecov](https://codecov.io/gh/yongjhih/routs/branch/master/graph/badge.svg)](https://codecov.io/gh/yongjhih/routs)
-[![CircleCI](https://circleci.com/gh/yongjhih/routs/tree/master.svg?style=svg)](https://circleci.com/gh/yongjhih/routs/tree/master)
+[![CircleCI](https://circleci.com/gh/yongjhih/routs/tree/master.svg?style=svg)](https://circleci.com/gh/yongjhih/routs)
 
 # routs
 
